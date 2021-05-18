@@ -1,5 +1,4 @@
 # Starve-Free-Readers_Writers-problem
-# Starve-Free-Readers-Writers-problem
 
 ## Introduction
 
